@@ -5,3 +5,14 @@ Section 0202
 
 Week 1
 To be fair, I only used AI to help me as a refresher on python concepts. I dont really need it as of now. 
+
+Week 2
+This week I used AI while working on the Week 2 Python exercises to better understand certain
+coding concepts. For example, I asked clarifying questions about how to use loops to count the
+number of checked-out books, how to stop a loop after finding the first available title, and how to
+compare string lengths when finding the longest book title. I also asked about the logic behind
+appending items to a new list while preserving order. The AI responses helped me reason through the
+exercises and apply the logic myself, but I did not use AI to directly complete or submit the
+solutions.
+
+Here is the link to the chat I used: https://chatgpt.com/share/68d0704f-5bb8-800c-b81c-9ae6f5e03419
