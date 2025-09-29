@@ -16,3 +16,8 @@ exercises and apply the logic myself, but I did not use AI to directly complete 
 solutions.
 
 Here is the link to the chat I used: https://chatgpt.com/share/68d0704f-5bb8-800c-b81c-9ae6f5e03419
+
+Week 3
+This week I used AI while working on the Week 3 Python library exercises. I mostly used it to make sure I was on the right track with my code and to help me explain things in a simpler way. For example, I asked about what happens with list indexes, and how to flip True/False values in a list without messing it up. The AI helped me think about edge cases, and just gave me ideas for cleaner ways to do stuff. I still wrote and tested all the functions myself,  the AI was more like a helper to bounce questions off of.
+
+Here is the link to the chat I used: https://chatgpt.com/share/68d9da4f-f948-800c-aa88-059de3673192
