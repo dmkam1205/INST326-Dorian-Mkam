@@ -21,3 +21,15 @@ Week 3
 This week I used AI while working on the Week 3 Python library exercises. I mostly used it to make sure I was on the right track with my code and to help me explain things in a simpler way. For example, I asked about what happens with list indexes, and how to flip True/False values in a list without messing it up. The AI helped me think about edge cases, and just gave me ideas for cleaner ways to do stuff. I still wrote and tested all the functions myself,  the AI was more like a helper to bounce questions off of.
 
 Here is the link to the chat I used: https://chatgpt.com/share/68d9da4f-f948-800c-aa88-059de3673192
+
+Week 4
+This week I used AI to help me better understand the object-oriented programming concepts in the
+Week 5 Python exercises. I worked through problems that involved building classes, defining methods,
+and managing attribute and I used AI to answer questions about what each exercise was really 
+teaching — like when to use a class instead of a function, how self works, and why certain methods 
+should return values instead of printing them. It helped me think more about how objects store and 
+change data internally, and how methods like checkout() or add_to_queue() control an object’s state. 
+Chat also helped me notice patterns between different exercises, like using lists versus 
+dictionaries, or making comparisons case-insensitive for consistency. Essentially, AI helped me reflect on the logic behind each one and build a deeper understanding of how OOP works in Python.
+
+Here is the link to the chat I used:https://chatgpt.com/share/68e338d4-8294-8013-9047-d542d92e051e
