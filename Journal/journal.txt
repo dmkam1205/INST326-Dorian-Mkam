@@ -33,3 +33,20 @@ Chat also helped me notice patterns between different exercises, like using list
 dictionaries, or making comparisons case-insensitive for consistency. Essentially, AI helped me reflect on the logic behind each one and build a deeper understanding of how OOP works in Python.
 
 Here is the link to the chat I used:https://chatgpt.com/share/68e338d4-8294-8013-9047-d542d92e051e
+
+This week I used AI to help with the 
+Week 5 exercises on encapsulation and 
+properties. I ran into a few errors, 
+like an AttributeError about 
+'_Member__email' in my Member class, 
+and a ValueError when testing my 
+BookCopy transitions. I asked AI why 
+those were happening, and it explained 
+how property setters actually create 
+private variables and why I shouldn’t 
+call the setter in the constructor. It 
+also confirmed that using raise 
+ValueError() was fine for this week’s 
+scope. Overall, AI helped me understand the logic behind encapsulation and clean up my code.
+
+Here is the link to the chat I used: https://chatgpt.com/share/68ec4726-c554-800c-8b60-41bfc3a5a53a
