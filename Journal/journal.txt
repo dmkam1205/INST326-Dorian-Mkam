@@ -28,25 +28,23 @@ Week 5 Python exercises. I worked through problems that involved building classe
 and managing attribute and I used AI to answer questions about what each exercise was really 
 teaching — like when to use a class instead of a function, how self works, and why certain methods 
 should return values instead of printing them. It helped me think more about how objects store and 
-change data internally, and how methods like checkout() or add_to_queue() control an object’s state. 
-Chat also helped me notice patterns between different exercises, like using lists versus 
+change data internally, and how methods like checkout() or add_to_queue() control an object’s state. Chat also helped me notice patterns between different exercises, like using lists versus 
 dictionaries, or making comparisons case-insensitive for consistency. Essentially, AI helped me reflect on the logic behind each one and build a deeper understanding of how OOP works in Python.
 
 Here is the link to the chat I used:https://chatgpt.com/share/68e338d4-8294-8013-9047-d542d92e051e
 
-This week I used AI to help with the 
-Week 5 exercises on encapsulation and 
-properties. I ran into a few errors, 
-like an AttributeError about 
-'_Member__email' in my Member class, 
-and a ValueError when testing my 
-BookCopy transitions. I asked AI why 
-those were happening, and it explained 
-how property setters actually create 
-private variables and why I shouldn’t 
-call the setter in the constructor. It 
-also confirmed that using raise 
-ValueError() was fine for this week’s 
-scope. Overall, AI helped me understand the logic behind encapsulation and clean up my code.
+This week I used AI to help with the  Week 5 exercises on encapsulation and properties. I ran into a few errors, like an AttributeError about '_Member__email' in my Member class, and a ValueError when testing my BookCopy transitions. I asked AI why those were happening, and it explained how property setters actually create private variables and why I shouldn’t call the setter in the constructor. It also confirmed that using raise ValueError() was fine for this week’s scope. Overall, AI helped me understand the logic behind encapsulation and clean up my code.
 
 Here is the link to the chat I used: https://chatgpt.com/share/68ec4726-c554-800c-8b60-41bfc3a5a53a
+
+Week 6
+This week I used AI while working on the library project exercises about static methods and utility classes. I had some trouble understanding when to use @staticmethod versus regular methods, and how helper classes like Formatter or DateUtils fit into the program. I asked AI why my code was returning weird outputs like [<__main__.Book object at 0x…>], and it explained that I needed a __repr__ method to make the objects print nicely. It also helped me clean up some formatting issues and understand how class methods can organize shared logic. Overall, it made the concepts behind utility and catalog classes a lot clearer.
+Here is the link to the chat I used: https://chatgpt.com/share/6912166e-4e28-800e-9cb8-a24ca1fcbb55
+
+Week 7
+This week I used AI to help me with the error handling and exceptions exercises. I asked about when to raise a ValueError vs. a TypeError and why we separate FileNotFoundError and JSONDecodeError in the same try block. AI explained how exceptions stop normal program flow and why it’s better to catch specific errors instead of a broad except. It also showed me how to use assertRaises() to test my error handling. Overall, it helped me write cleaner, safer code and actually understand what’s happening when something breaks.
+Here is the link to the chat I used: https://chatgpt.com/share/69121702-18a0-800e-bb88-f8f7e6e1c1dd
+
+Week 8
+This week I used AI to help with the Week 8 exercises on classes, constructors, and instance variables. I was having trouble understanding how to properly define a constructor in my Book class and when to use the this keyword. I asked AI to explain how constructors initialize object data and why using this.title = title avoids confusion between instance and local variables. It also showed me how to create multiple Book objects with different values and how to print their details using a toString() method. Overall, AI helped me better understand how classes store data, how objects are created from them, and how methods interact with instance variables.
+Here is the link to the chat I used: https://chatgpt.com/share/69121773-2d68-800e-b3f4-cda9006d8c0e
