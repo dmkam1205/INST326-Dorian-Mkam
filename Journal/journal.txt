@@ -56,3 +56,9 @@ Here is the link to the chat I used: https://chatgpt.com/share/691c9bb6-4b10-801
 Week 10
 This week I focused on strengthening my understanding of Python’s data model, especially how properties and container behaviors make classes feel more “real.” I started by practicing a simple @property setter that cleans up a book title by stripping whitespace and raising a ValueError if the result is empty. It helped me see why validation inside setters keeps objects consistent. I also learned how to add a read-only property, like label, that returns a formatted string such as "Title [ISBN]". For containers, I tested how len(catalog) updates after deleting a book using __delitem__. A simple before-and-after assertion showed that my container class behaves like built-in Python collections. Lastly, I explored formatting challenges, like handling very long book titles when printing tables. Truncating with an ellipsis ("...") keeps the catalog readable without losing meaning, which reminded me that practical design is just as important as technical correctness.
 Here is the link to the chat I used: https://chatgpt.com/share/69250e61-f7a0-8010-9b42-90a6c29e9e6b
+
+Week 12
+No AI was used this week. I realized AI was becoming an unhealthy usage of mine so I decided to take a month break starting last week. Youtube and Google was my AI !
+
+Week 13
+No AI again. Still going strong!
